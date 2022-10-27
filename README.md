@@ -1,2 +1,2 @@
 # Estatisticas
-Aqui eu buscarei expor algumas atividades desenvolvidas usando PowerBi e R
+Aqui eu exporei algumas atividades desenvolvidas usando PowerBi e R
